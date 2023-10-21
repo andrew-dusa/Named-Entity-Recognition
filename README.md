@@ -4,7 +4,7 @@ We use Python to perform Named Entity Recognition on text in order to retrieve i
 <img width="1069" alt="Screenshot 2023-10-21 at 4 41 07 PM" src="https://github.com/andrew-dusa/Named-Entity-Recognition/assets/93221044/1235560f-b460-4818-b2db-db11a06663aa">
 
 ## Bidirectional Long Short Term Memory:
-A BiLSTM is a type of recurrent neural network(RNN) that is used in various natural language processing(NLP) tasks. It is an extension of the tradional LSTM that processes inputs in both forward and backward directions. This allows it to capture information from past and future contexts simulaneosly. See Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation to see the improved context at each point when using a bi-directional RNN for the encoder.
+A BiLSTM is a type of recurrent neural network(RNN) that is used in various natural language processing(NLP) tasks. It is an extension of the tradional LSTM that processes inputs in both forward and backward directions. This allows it to capture information from past and future contexts simulaneosly. See [Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/pdf/1609.08144.pdf) to see the improved context at each point when using a bi-directional RNN for the encoder.
 
 ![Screenshot 2023-10-21 at 4 33 42 PM](https://github.com/andrew-dusa/Named-Entity-Recognition/assets/93221044/21d089ec-3956-4699-8a50-77e57c310e74)
 
