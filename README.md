@@ -1,5 +1,5 @@
 # Brief Summary 
-We use Python to perform Named Entity Recognition on text in order to retrieve important information from natural language. The applications of this include converting data that is unstructured to structured data. Using Tensorflow, we implement a Bidirectional Long Short Term Memory Recurrent Neural Network to recognize named entities. Using this we achieve a validation accuracy of 97%. 
+We use Python to perform Named Entity Recognition on text in order to retrieve important information from natural language. The applications of this include converting data that is unstructured to structured data. Using Tensorflow, we implement a Bidirectional Long Short Term Memory Recurrent Neural Network to recognize named entities. Using this we achieve a validation accuracy of 97%. To try it out yourself just go to the bottom and change the input string, running that cell will return your input with named entities highlighted and their type declared beside it.
 
 <img width="1069" alt="Screenshot 2023-10-21 at 4 41 07 PM" src="https://github.com/andrew-dusa/Named-Entity-Recognition/assets/93221044/1235560f-b460-4818-b2db-db11a06663aa">
 
